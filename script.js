@@ -2,7 +2,7 @@ const startEl = document.getElementById("start");
 const stopEl = document.getElementById("stop");
 const resetEl = document.getElementById("reset");
 const timerEl = document.getElementById("timer")
-
+https://github.com/riteshsharma2406/Project-5-Pomodoro-timer
 let interval
 let timeLeft = 1500;
 
